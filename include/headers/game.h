@@ -1,8 +1,8 @@
 #pragma once
 
 #include <iostream>
-#include <sdl/SDL.h>
-#include <sdl/SDL_image.h>
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
 
 enum class GameState { PLAY, EXIT };
 
